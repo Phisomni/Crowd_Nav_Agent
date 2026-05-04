@@ -1,4 +1,4 @@
-# cs4100-crowd-navigation
+# CrowdNav Agent
 
 Pygame-based crowd navigation sandbox with two main pieces:
 
